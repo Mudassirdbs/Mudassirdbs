@@ -50,8 +50,8 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: <i>(Add your LinkedIn URL)</i>
-- 🌐 Portfolio: <i>(Coming soon)</i>
+- 💼 LinkedIn: <i>(https://www.linkedin.com/in/mudassir-asghar/)</i>
+- 🌐 Portfolio: <i>(https://mudassirasghar.com)</i>
 
 ---
 
