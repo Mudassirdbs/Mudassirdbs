@@ -42,13 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mudassirdbs&show_icons=true&theme=dark" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 - 💼 LinkedIn: <i>(https://www.linkedin.com/in/mudassir-asghar/)</i>
 - 🌐 Portfolio: <i>(https://mudassirasghar.com)</i>
