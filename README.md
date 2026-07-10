@@ -51,19 +51,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mudassirdbs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mudassirdbs&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mudassirdbs&show_icons=true&theme=default&hide_border=true&count_private=true" height="165em" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassirdbs&layout=compact&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassirdbs&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassirdbs&layout=compact&theme=default&hide_border=true" height="165em" alt="Top Languages" />
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mudassirdbs&theme=github-dark-blue&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mudassirdbs&theme=default&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Mudassirdbs&theme=default&hide_border=true" alt="GitHub Streak" />
