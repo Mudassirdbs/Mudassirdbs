@@ -1,20 +1,21 @@
 <div align="center">
 
-# Mudassir Asghar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mudassir%20Asghar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20WordPress%20Expert%20%7C%20SEO%20Specialist&descAlignY=60&descSize=16" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,100:cfd9e6&height=180&section=header&text=Mudassir%20Asghar&fontSize=42&fontColor=1a1a2e&fontAlignY=40&desc=Web%20Developer%20%7C%20WordPress%20Expert%20%7C%20SEO%20Specialist&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mudassir%20Asghar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20WordPress%20Expert%20%7C%20SEO%20Specialist&descAlignY=60&descSize=16" width="100%" alt="header" />
+</picture>
 
-**Web Developer · WordPress Expert · SEO Specialist**
-
-Building fast, SEO-optimized websites with a strong focus on performance, usability & clean code.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mudassir-asghar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-informational?style=flat-square&logo=googlechrome)](https://mudassirasghar.com)
-[![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat-square&logo=instagram)](https://instagram.com/mudassir_asghar_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-asghar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2f2f2f?style=flat-square&logo=googlechrome&logoColor=white)](https://mudassirasghar.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mudassir_asghar_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mudassir.asgharr)
 
 </div>
 
 <br/>
 
-## About Me
+## 👋 About Me
 
 - 🌍 Freelance **Web Developer, WordPress Expert & SEO Specialist** based in **Bahawalpur, Pakistan**
 - 🤝 Working with clients across the **UK, USA & Middle East**
@@ -25,20 +26,17 @@ Building fast, SEO-optimized websites with a strong focus on performance, usabil
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Vite`
+<div align="center">
 
-**Backend & Database**
-`Python` `Django` `Node.js` `Supabase` `MongoDB`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,python,django,nodejs,supabase,mongodb,wordpress,git,github,vercel,cloudflare" />
 
-**CMS, SEO & Tools**
-`WordPress` `Elementor` `Git` `GitHub` `Vercel` `Cloudflare`
+</div>
 
 <br/>
 
-## What I'm Working On
+## 📌 What I'm Working On
 
 - 🏗️ **rankif.agency** — my agency site, deployed on Vercel
 - 📊 Client Ledger Dashboard — React 19, Vite, Tailwind v4, Shadcn/Radix UI, Supabase
@@ -48,7 +46,7 @@ Building fast, SEO-optimized websites with a strong focus on performance, usabil
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -57,18 +55,25 @@ Building fast, SEO-optimized websites with a strong focus on performance, usabil
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mudassirdbs&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=Mudassirdbs&show_icons=true&theme=default&hide_border=true&count_private=true" height="165em" alt="GitHub Stats" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassirdbs&layout=compact&theme=github_dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassirdbs&layout=compact&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassirdbs&layout=compact&theme=default&hide_border=true" height="165em" alt="Top Languages" />
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mudassirdbs&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mudassirdbs&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Mudassirdbs&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
+
 </div>
 
 <br/>
 
-## Pinned Highlights
+## 📁 Pinned Highlights
 
 | Project | Description | Stack |
 |---|---|---|
@@ -82,12 +87,18 @@ Building fast, SEO-optimized websites with a strong focus on performance, usabil
 
 <div align="center">
 
-## Let's Connect
+### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Mudassir%20Asghar-informational?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/mudassir-asghar/)
-[![Portfolio](https://img.shields.io/badge/-mudassirasghar.com-informational?style=flat-square&logo=googlechrome)](https://mudassirasghar.com)
-[![Facebook](https://img.shields.io/badge/-mudassir.asgharr-informational?style=flat-square&logo=facebook)](https://facebook.com/mudassir.asgharr)
+[![LinkedIn](https://img.shields.io/badge/-Mudassir%20Asghar-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-asghar/)
+[![Portfolio](https://img.shields.io/badge/-mudassirasghar.com-2f2f2f?style=flat-square&logo=googlechrome&logoColor=white)](https://mudassirasghar.com)
+[![Facebook](https://img.shields.io/badge/-mudassir.asgharr-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mudassir.asgharr)
 
 *Always learning. Always building. Always improving.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:cfd9e6,100:e8eef5&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%" alt="footer" />
+</picture>
 
 </div>
