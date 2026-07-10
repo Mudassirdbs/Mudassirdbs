@@ -1,10 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mudassir%20Asghar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20WordPress%20Expert%20%7C%20SEO%20Specialist&descAlignY=60&descSize=16" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,100:cfd9e6&height=180&section=header&text=Mudassir%20Asghar&fontSize=42&fontColor=1a1a2e&fontAlignY=40&desc=Web%20Developer%20%7C%20WordPress%20Expert%20%7C%20SEO%20Specialist&descAlignY=60&descSize=16" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mudassir%20Asghar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%7C%20WordPress%20Expert%20%7C%20SEO%20Specialist&descAlignY=60&descSize=16" width="100%" alt="header" />
-</picture>
+# Mudassir Asghar
+
+### Web Developer · WordPress Expert · SEO Specialist
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6E7681&center=true&vCenter=true&width=520&lines=Building+fast%2C+SEO-optimized+websites;WordPress+%7C+React+%7C+Next.js;Freelance+dev+from+Bahawalpur%2C+Pakistan" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-asghar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2f2f2f?style=flat-square&logo=googlechrome&logoColor=white)](https://mudassirasghar.com)
@@ -94,11 +94,5 @@
 [![Facebook](https://img.shields.io/badge/-mudassir.asgharr-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mudassir.asgharr)
 
 *Always learning. Always building. Always improving.*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:cfd9e6,100:e8eef5&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%" alt="footer" />
-</picture>
 
 </div>
