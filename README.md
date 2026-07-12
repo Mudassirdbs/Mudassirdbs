@@ -129,18 +129,6 @@
 
 ---
 
-## 📊 Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudassirdbs&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassirdbs&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 What I'm Working On
 
 - 🔨 Building AI-powered web applications with LangChain & Claude
