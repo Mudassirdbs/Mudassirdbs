@@ -67,52 +67,61 @@
 <tr>
 <td width="50%">
 
-### 🤖 AI-Powered Chat Application
-**Full-stack SaaS with real-time messaging**
-- Built with Next.js, React, TypeScript
-- LangChain integration for AI responses
-- PostgreSQL + Prisma ORM
-- Real-time updates with WebSockets
+### 🏢 RankIF Agency
+**My Agency Website**
+- Professional agency portfolio
+- Showcasing services and expertise
+- Modern, responsive design
 
-[View Project →](https://github.com/Mudassirdbs)
+[Visit →](https://rankif.agency)
 
 </td>
 <td width="50%">
 
-### 🎨 Design System Component Library
-**Reusable UI component library**
-- 50+ customizable components
-- TypeScript + Tailwind CSS
-- Storybook documentation
-- NPM package published
+### 📱 Insta Story Viewer
+**Anonymous Instagram Story Viewing**
+- View any Instagram story anonymously
+- No login required
+- Simple and intuitive interface
 
-[View Project →](https://github.com/Mudassirdbs)
+[Try It →](https://insta.mudassirasghar.com/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Data Dashboard & Analytics
-**Real-time analytics platform**
-- React + D3.js visualizations
-- Python FastAPI backend
-- PostgreSQL data warehouse
-- Deployed on AWS
+### 🎬 TikTok Downloader
+**Download TikTok Videos Without Watermark**
+- Download TikTok videos in HD quality
+- Remove watermarks automatically
+- Fast and reliable
 
-[View Project →](https://github.com/Mudassirdbs)
+[Use Now →](https://tk-downloader.mudassirasghar.com/)
 
 </td>
 <td width="50%">
 
-### 🚀 Full-Stack E-Commerce Platform
-**Modern SaaS marketplace**
-- Next.js frontend with Stripe integration
-- Node.js/Express backend
-- MongoDB document store
-- Docker containerization
+### 📥 Instagram Downloader
+**Download Insta Content**
+- Download reels, photos, and carousels
+- Highlight video downloads
+- No watermark, full quality
 
-[View Project →](https://github.com/Mudassirdbs)
+[Try It →](https://insta-downloader.replit.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 SketchBook Tool
+**Digital Coloring Application**
+- Replica of Sketchjoy coloring tool
+- Drawing and painting features
+- Fun creative experience
+
+[Start Drawing →](https://canvas.funcolorprints.com/)
 
 </td>
 </tr>
