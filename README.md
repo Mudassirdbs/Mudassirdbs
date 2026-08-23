@@ -1,9 +1,3 @@
-<!--
-  This is your PROFILE README. It goes in a repo named exactly after your
-  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
-  Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
-  card the same height -- if you change the info card's H, re-match these.
--->
 <div align="center">
 
 <table>
@@ -15,22 +9,21 @@
 
 ## Mudassir Asghar
 
-**Full Stack · AI · Design**
+**I build stuff on the web, mostly with Next.js and too much coffee.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mudassirasghar.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://mudassirasghar.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mudassirasghar.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://mudassirasghar.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mudassir--asghar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-asghar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mudassirdbs-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mudassirdbs)
 
 <br>
 
-<!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="1300" alt="GitHub contribution graph" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -44,84 +37,54 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-0066FF?style=flat-square&logo=anthropic&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+### Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 Featured Projects
+## 📚 Stuff I've built
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🏢 RankIF Agency
-**My Agency Website**
-- Professional agency portfolio
-- Showcasing services and expertise
-- Modern, responsive design
+Co-founded this. Full dev + SEO shop for clients in the UK, US, and Middle East.
 
 [Visit →](https://rankif.agency)
 
 </td>
 <td width="50%">
 
-### 📱 Insta Story Viewer
-**Anonymous Instagram Story Viewing**
-- View any Instagram story anonymously
-- No login required
-- Simple and intuitive interface
+### 💼 Client Ledger
+Open-source billing/ledger dashboard for freelancers who are tired of spreadsheets. React 19 + Supabase.
 
-[Try It →](https://insta.mudassirasghar.com/)
+[Repo →](https://github.com/Mudassirdbs/Client-Ledger)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎬 TikTok Downloader
-**Download TikTok Videos Without Watermark**
-- Download TikTok videos in HD quality
-- Remove watermarks automatically
-- Fast and reliable
+### 🖼️ PixelForge
+Image tool that never touches a server — everything runs in your browser, background removal included.
 
-[Use Now →](https://tk-downloader.mudassirasghar.com/)
+[Try it →](https://pixelforge.mudassirasghar.dev)
 
 </td>
 <td width="50%">
 
-### 📥 Instagram Downloader
-**Download Insta Content**
-- Download reels, photos, and carousels
-- Highlight video downloads
-- No watermark, full quality
+### ⌨️ TypeVibe
+Typing test with real mechanical keyboard sounds. Built it because the others felt dead.
 
-[Try It →](https://insta-downloader.replit.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 SketchBook Tool
-**Digital Coloring Application**
-- Replica of Sketchjoy coloring tool
-- Drawing and painting features
-- Fun creative experience
-
-[Start Drawing →](https://canvas.funcolorprints.com/)
+[Try it →](https://typevibe.dev)
 
 </td>
 </tr>
@@ -129,19 +92,19 @@
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Right now
 
-- 🔨 Building AI-powered web applications with LangChain & Claude
-- 📚 Creating reusable component libraries for modern web development
-- ☁️ Exploring cloud architecture & DevOps best practices
-- 🤝 Contributing to open-source projects
+- Rebuilding my portfolio on Next.js 15
+- Messing around with Claude Code, Antigravity, and other AI dev tooling
+- Running client SEO/dev work through RankIF
+- Finishing a CS degree at IUB (2027)
 
 ---
 
-## 💬 Get In Touch
-
-Feel free to reach out for collaborations, freelance projects, or just a friendly chat!
+## 💬 Reach out
 
 <div align="center">
 
-[📧 Email](mailto:your-email@example.com) • [💼 LinkedIn](https://www.linkedin.com/in/mudassir-asghar/) • [🌐 Portfolio](https://mudassirasghar.com) • [🐙 GitHub](https://github.com/Mudassirdbs)
+[📧 Email](mailto:contact@mudassirasghar.dev) • [💼 LinkedIn](https://www.linkedin.com/in/mudassir-asghar/) • [🌐 Portfolio](https://mudassirasghar.dev) • [🐙 GitHub](https://github.com/Mudassirdbs)
+
+</div>
